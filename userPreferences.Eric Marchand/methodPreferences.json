@@ -1,0 +1,32 @@
+{
+	"Sources/Classes/TransmuteMacro.4dm": {
+		"startSelection": 41,
+		"endSelection": 41,
+		"firstSelectedLine": 50,
+		"lastSelectedLine": 50,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-06-24T19:56:09.451Z"
+	},
+	"Sources/Methods/generateFormMacrosFile.4dm": {
+		"startSelection": 41,
+		"endSelection": 41,
+		"firstSelectedLine": 1,
+		"lastSelectedLine": 1,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2021-06-24T19:27:34.364Z"
+	},
+	"Sources/Classes/menu.4dm": {
+		"startSelection": 5,
+		"endSelection": 5,
+		"firstSelectedLine": 467,
+		"lastSelectedLine": 467,
+		"folding": [
+			24,
+			566
+		],
+		"bookmarks": [],
+		"stamp": "2021-06-24T19:32:35.437Z"
+	}
+}

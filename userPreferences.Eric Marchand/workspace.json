@@ -1,0 +1,44 @@
+{
+	"editors": [
+		{
+			"type": "method",
+			"id": 2147483647,
+			"previousTabType": "method",
+			"previousTabID": 2147483642,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "generateFormMacrosFile"
+			}
+		},
+		{
+			"type": "method",
+			"id": 2147483642,
+			"previousTabType": "form",
+			"previousTabID": 2724,
+			"codeDescriptor": {
+				"type": 11,
+				"className": "menu",
+				"methodPath": "/SOURCES/Classes/menu.4dm"
+			}
+		},
+		{
+			"type": "form",
+			"id": 2724,
+			"previousTabType": "method",
+			"previousTabID": 2147483646,
+			"formName": "Form1"
+		},
+		{
+			"type": "method",
+			"id": 2147483646,
+			"codeDescriptor": {
+				"type": 11,
+				"className": "TransmuteMacro",
+				"methodPath": "/SOURCES/Classes/TransmuteMacro.4dm"
+			}
+		},
+		{
+			"type": "explorer"
+		}
+	]
+}

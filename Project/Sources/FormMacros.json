@@ -1,0 +1,7 @@
+{
+	"macros": {
+		"Transmute object": {
+			"class": "TransmuteMacro"
+		}
+	}
+}
