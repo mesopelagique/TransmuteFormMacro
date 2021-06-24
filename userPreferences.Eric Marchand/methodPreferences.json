@@ -9,10 +9,10 @@
 		"stamp": "2021-06-24T19:56:09.451Z"
 	},
 	"Sources/Methods/generateFormMacrosFile.4dm": {
-		"startSelection": 41,
-		"endSelection": 41,
-		"firstSelectedLine": 1,
-		"lastSelectedLine": 1,
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 6,
+		"lastSelectedLine": 6,
 		"folding": [],
 		"bookmarks": [],
 		"stamp": "2021-06-24T19:27:34.364Z"
