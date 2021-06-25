@@ -29,9 +29,13 @@ Class constructor
 		"rectangle"; \
 		"line"; \
 		"oval"; \
+		"picture"; \
 		"-"; \
 		"splitter"; \
-		"tab")
+		"tab"; \
+		"-"; \
+		"write"; \
+		"view")
 	
 Function onInvoke($editor : Object)->$result : Object
 	var $type : Text
