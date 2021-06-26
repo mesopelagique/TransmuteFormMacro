@@ -8,7 +8,7 @@
 
 Transmute type of form object using form macro ie. a `replace by` action
 
-Just right clic and choose the new type among: `button`, `text`, `groupBox`, `input`, `list`, `listbox`, `combo`, `dropdown`, `picturePopup`, `button`, `pictureButton`, `buttonGrid`, `radio`, `checkbox`, `progress`, `ruler`, `stepper`, `spinner`, `rectangle`, `line`, `oval`, `splitter`, `tab`
+Just right click and choose the new type among: `button`, `text`, `groupBox`, `input`, `list`, `listbox`, `combo`, `dropdown`, `picturePopup`, `button`, `pictureButton`, `buttonGrid`, `radio`, `checkbox`, `progress`, `ruler`, `stepper`, `spinner`, `rectangle`, `line`, `oval`, `splitter`, `tab`
 
 ![Screencast](Screencast.gif)
 
