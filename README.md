@@ -12,7 +12,7 @@ Just right click and choose the new type among: `button`, `text`, `groupBox`, `i
 
 ![Screencast](Screencast.gif)
 
-> ⚠️   there is no object properties sanity check: the object will keep all its properties even if not all are used with new type
+> ⚠️   there is no object properties sanity check: the object will keep all its properties even if not all are used with new type, use at you own risk!!!
  
 
 ## Other components
